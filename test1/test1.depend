@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623342054 source:c:\users\inkog\desktop\ñ++\test1\main.cpp
+	<iostream>
+	<queue>
+	"stdio.h"
+
